@@ -1,0 +1,17 @@
+{
+  WindowHeight = 982
+  UseMouse = true
+  NewUpdateSoundRevisionViewed = 38291
+  BackupSaveCount = 3
+  LastRoadmapRevisionViewed = 38291
+  DisplayIndex = 0
+  ValidCheckpoint = false
+  LastPatchNoteRevisionViewed = 38291
+  ControlsResetRevisionViewed = 38291
+  Y = 1964
+  X = 3024
+  DefaultControlsChosen = true
+  UiLanguage = "zh-CN"
+  Language = "zh-CN"
+  WindowWidth = 1512
+}
