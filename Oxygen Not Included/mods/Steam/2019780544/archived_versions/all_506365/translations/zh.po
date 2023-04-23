@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Application: Oxygen Not IncludedPOT Version: 2.0\n"
+"X-Generator: Poedit 2.2.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. PrintListSelect.PLSStrings.MULTIPLIER
+msgctxt "PrintListSelect.PLSStrings.MULTIPLIER"
+msgid "Multiplier"
+msgstr "数量倍数"
+
+#. PrintListSelect.PLSStrings.MULTIPLIER_TIP
+msgctxt "PrintListSelect.PLSStrings.MULTIPLIER_TIP"
+msgid "Multiplier Tip"
+msgstr "基于原版的倍数（至少勾选下方任一物品，才会生效）"
+
+#. PrintListSelect.PLSStrings.IGNOREREQUIREMENT
+msgctxt "PrintListSelect.PLSStrings.IGNOREREQUIREMENT"
+msgid "Ignore Requirement"
+msgstr "忽略条件"
+
+#. PrintListSelect.PLSStrings.IGNOREREQUIREMENT_TIP
+msgctxt "PrintListSelect.PLSStrings.IGNOREREQUIREMENT_TIP"
+msgid "Ignore Requirement Tip"
+msgstr "选中，则忽略打印条件（物品刷新时间、物品获得的前置条件）"
+
+#. PrintListSelect.PLSStrings.CHECK_TIP
+msgctxt "PrintListSelect.PLSStrings.CHECK_TIP"
+msgid "Check Tip"
+msgstr "选中，则会出现在打印舱列表里"
+
+#. PrintListSelect.PLSStrings.CHECK_TIP_DLC1
+msgctxt "PrintListSelect.PLSStrings.CHECK_TIP_DLC1"
+msgid "Check Tip (DLC1)"
+msgstr "选中，则会出现在打印舱列表里。DLC1物品"
+
+#. PrintListSelect.PLSStrings.COMMONCAREPACKAGE
+msgctxt "PrintListSelect.PLSStrings.COMMONCAREPACKAGE"
+msgid "CommonCarePackage"
+msgstr "手动配置常用物品"
+
+#. PrintListSelect.PLSStrings.COMMONCAREPACKAGE_TIP
+msgctxt "PrintListSelect.PLSStrings.COMMONCAREPACKAGE_TIP"
+msgid "CommonCarePackage Tip"
+msgstr "在[display.config]配置文件中手动设置是否显示在本对话框中，简化常用物品列表"
+
+#. PrintListSelect.PLSStrings.ACTION_TITLE
+msgctxt "PrintListSelect.PLSStrings.ACTION_TITLE"
+msgid "ACTION_TITLE"
+msgstr "打印舱刷新设置"
+
+#. PrintListSelect.PLSStrings.TOOL_NAME
+msgctxt "PrintListSelect.PLSStrings.TOOL_NAME"
+msgid "Tool Name"
+msgstr "设置"
+
+#. PrintListSelect.PLSStrings.TOOL_TIP
+msgctxt "PrintListSelect.PLSStrings.TOOL_TIP"
+msgid "Tool Tip"
+msgstr "打印舱设置[{Hotkey}]"
+
+#. PrintListSelect.PLSStrings.REJECTALL
+msgctxt "PrintListSelect.PLSStrings.REJECTALL"
+msgid "Reject All"
+msgstr "全部拒绝"
+
+#. PrintListSelect.PLSStrings.REROLLALL
+msgctxt "PrintListSelect.PLSStrings.REROLLALL"
+msgid "Reroll All"
+msgstr "全部重选"
+
+#. PrintListSelect.PLSStrings.REROLLALL_TIP
+msgctxt "PrintListSelect.PLSStrings.REROLLALL_TIP"
+msgid "Reroll Tip"
+msgstr "是否启用 全部重选 功能"
+
+#. PrintListSelect.PLSStrings.CHANGETIME
+msgctxt "PrintListSelect.PLSStrings.CHANGETIME"
+msgid "ChangeTime"
+msgstr "启用刷新周期"
+
+#. PrintListSelect.PLSStrings.CHANGETIME_TIP
+msgctxt "PrintListSelect.PLSStrings.CHANGETIME_TIP"
+msgid "ChangeTime Tip"
+msgstr "是否启用 改变刷新周期 功能"
+
+#. PrintListSelect.PLSStrings.TIMEBEFORESPAWN
+msgctxt "PrintListSelect.PLSStrings.TIMEBEFORESPAWN"
+msgid "TimeBeforeSpawn"
+msgstr "刷新周期"
+
+#. PrintListSelect.PLSStrings.TIMEBEFORESPAWN_TIP
+msgctxt "PrintListSelect.PLSStrings.TIMEBEFORESPAWN_TIP"
+msgid "TimeBeforeSpawn Tip"
+msgstr "打印舱每周期秒数，游戏默认值为1800秒。（每周期600）"
+
+#. PrintListSelect.PLSStrings.METAL
+msgctxt "PrintListSelect.PLSStrings.METAL"
+msgid "Metal"
+msgstr "金属"
+
+#. PrintListSelect.PLSStrings.MINERAL
+msgctxt "PrintListSelect.PLSStrings.MINERAL"
+msgid "Mineral"
+msgstr "矿石"
+
+#. PrintListSelect.PLSStrings.FILTRATIONMEDIUM
+msgctxt "PrintListSelect.PLSStrings.FILTRATIONMEDIUM"
+msgid "Filtration Medium"
+msgstr "过滤介质"
+
+#. PrintListSelect.PLSStrings.CONSUMABLEORE
+msgctxt "PrintListSelect.PLSStrings.CONSUMABLEORE"
+msgid "Consumable Ore"
+msgstr "消耗性矿石"
+
+#. PrintListSelect.PLSStrings.ORGANIC
+msgctxt "PrintListSelect.PLSStrings.ORGANIC"
+msgid "Organic"
+msgstr "有机物"
+
+#. PrintListSelect.PLSStrings.CULTIVABLESOIL
+msgctxt "PrintListSelect.PLSStrings.CULTIVABLESOIL"
+msgid "Cultivable Soil"
+msgstr "可耕作的泥土"
+
+#. PrintListSelect.PLSStrings.GAS
+msgctxt "PrintListSelect.PLSStrings.GAS"
+msgid "Gas"
+msgstr "气体"
+
+#. PrintListSelect.PLSStrings.LIQUID
+msgctxt "PrintListSelect.PLSStrings.LIQUID"
+msgid "Liquid"
+msgstr "液体"
+
+#. PrintListSelect.PLSStrings.SEEDS
+msgctxt "PrintListSelect.PLSStrings.SEEDS"
+msgid "Seed"
+msgstr "植物/种子"
+
+#. PrintListSelect.PLSStrings.
+msgctxt "PrintListSelect.PLSStrings.FOOD"
+msgid "Food"
+msgstr "食物"
+
+#. PrintListSelect.PLSStrings.BABY
+msgctxt "PrintListSelect.PLSStrings.BABY"
+msgid "Baby"
+msgstr "幼体"
+
+#. PrintListSelect.PLSStrings.EGG
+msgctxt "PrintListSelect.PLSStrings.EGG"
+msgid "Egg"
+msgstr "小动物蛋"
+
+#. PrintListSelect.PLSStrings.MISCELLANEOUS
+msgctxt "PrintListSelect.PLSStrings.MISCELLANEOUS"
+msgid "Miscellaneous"
+msgstr "其他"
+
+#. PeterHan.PLib.Core.PLibStrings.BUTTON_RESET
+msgctxt "PeterHan.PLib.Core.PLibStrings.BUTTON_RESET"
+msgid "RESET TO DEFAULT"
+msgstr "重置"
+
+#. PeterHan.PLib.Core.PLibStrings.TOOLTIP_RESET
+msgctxt "PeterHan.PLib.Core.PLibStrings.TOOLTIP_RESET"
+msgid "Resets the mod configuration to default values."
+msgstr "将mod配置重置为默认值。"
+
+#. PeterHan.PLib.Core.PLibStrings.BUTTON_OPTIONS 
+msgctxt "PeterHan.PLib.Core.PLibStrings.BUTTON_OPTIONS"
+msgid "OPTIONS"
+msgstr "选项"

@@ -1,0 +1,18 @@
+{
+  "EnablePrintingPod": false,
+  "NoNegativeTraits": false,
+  "NoPositiveTraits": false,
+  "RerollOption": false,
+  "UnlockAllForStart": false,
+  "PositiveTraitsFixedAmount": false,
+  "NegativeTraitsFixedAmount": false,
+  "FixedInterests": false,
+  "StartingDupsCount": 3,
+  "FixedInterestsAmount": 3,
+  "PositiveTraitsAmount": 3,
+  "NegativeTraitsAmount": 1,
+  "PrintCycleCount": 3,
+  "MaxDuplicants": 100,
+  "ConsoleEnabled": true,
+  "ShowConfig": true
+}

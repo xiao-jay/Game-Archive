@@ -1,0 +1,4 @@
+supportedContent: EXPANSION1_ID
+minimumSupportedBuild: 441000
+APIVersion: 2
+version: "0.1.0"

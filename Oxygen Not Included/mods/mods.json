@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835394161",
+        "title": "Build Over Plants",
+        "version": 1624689939
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1835394161.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1838445101",
+        "title": "DGSM  - Duplicants Generation Settings Manager // by @Ony 👾",
+        "version": 1672122187
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 1,
+      "reinstall_path": null,
+      "staticID": "DGSM"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1855163252",
+        "title": "Falling Sand",
+        "version": 1645431099
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.FallingSand"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1724518038",
+        "title": "【停止更新】刷新选人(Refresh selection)",
+        "version": 1556956831
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1724518038.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706075206",
+        "title": "Steel Ladder",
+        "version": 1665439779
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.SteelLadder"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1739635014",
+        "title": "MaterialColor",
+        "version": 1625137485
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1739635014.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1835851890",
+        "title": "[DEPRECATED] Drag Tool Area",
+        "version": 1610484044
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1835851890.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2019780544",
+        "title": "PrintPod Select / 打印舱物品刷新",
+        "version": 1663186274
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PrintListSelect"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1831438994",
+        "title": "Critter Inventory",
+        "version": 1651361677
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "PeterHan.CritterInventory"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1713359495",
+        "title": "Speed Control",
+        "version": 1556703197
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "1713359495.Steam"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1717463209",
+        "title": "Bigger Camera Zoom Out",
+        "version": 1665435898
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.BiggerCameraZoomOut"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1720247784",
+        "title": "Bigger Capacity",
+        "version": 1627730113
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "BiggerCapacity"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1706181611",
+        "title": "Geyser Calculated Average Output Tooltip",
+        "version": 1665437596
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "Cairath.GeyserCalculatedAvgOutputTooltip"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "1751123054",
+        "title": "Floatation",
+        "version": 1654249553
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [
+        ""
+      ],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "HeinFloatation"
+    },
+    {
+      "label": {
+        "distribution_platform": 1,
+        "id": "2363561445",
+        "title": "Refresh Immigrants / 刷新选人",
+        "version": 1625970326
+      },
+      "status": 1,
+      "enabled": false,
+      "enabledForDlc": [],
+      "crash_count": 0,
+      "reinstall_path": null,
+      "staticID": "2363561445.Steam"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "StorageMultiplier": 4.0,
+  "BatteryMultiplier": 2.0,
+  "RocketFuelMultiplier": 1.0,
+  "RocketCargoMultiplier": 1.0,
+  "PipeMultiplier": 1.0,
+  "WireMultiplier": 1.0,
+  "GeneratorMultiplier": 1.0,
+  "ConveyorMultiplier": 1.0,
+  "OtherMultiplier": 1.0,
+  "Capacity": {
+    "Locker": 20000,
+    "LiquidReservoir": 5000,
+    "GasReservoir": 150,
+    "RationBox": 150,
+    "Refrigerator": 100,
+    "CargoBay": 1000,
+    "ConveyorInbox": 1000,
+    "ConveyorOutbox": 1000,
+    "ConveyorRails": 20,
+    "LiquidPipe": 10.0,
+    "GasPipe": 1.0
+  },
+  "version": 5
+}
